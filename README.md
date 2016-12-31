@@ -28,4 +28,3 @@ QuickList is a fast, simple and minialy designed check list for personal organiz
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
