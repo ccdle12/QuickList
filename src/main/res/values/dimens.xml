@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="task_horizontal_margin">8dp</dimen>
+    <dimen name="task_vertical_margin">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="half_vertical_inner_margin">36dp</dimen>
+    <dimen name="vertical_inner_margin">56dp</dimen>
+    <dimen name="vertical_large_margin">72dp</dimen>
+    <dimen name="layout_height">72dp</dimen>
+    <dimen name="task_row_height">46dp</dimen>
+    <dimen name="material_design_title">20sp</dimen>
+    <dimen name="material_design_subhead">16sp</dimen>
+
+    <dimen name="half_avatar_size">24dp</dimen>
+    <dimen name="avatar_size">48dp</dimen>
+    <dimen name="avatar_padding">4dp</dimen>
+</resources>

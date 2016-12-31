@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/edit_list_name"
+        android:title="@string/edit_list_name"
+        android:icon="@drawable/ic_edit_list_name"
+        app:showAsAction="always"
+        android:visible="false"/>
+    <item
+        android:id="@+id/delete_list"
+        android:title="@string/delete_list"
+        android:icon="@drawable/ic_delete_list"
+        app:showAsAction="always"
+        android:visible="false"/>
+    <item
+        android:id="@+id/clear_tasks_completed"
+        android:title="Clear Completed Tasks"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_clear_checkboxes"
+        android:visible="false"/>
+    <item
+        android:id="@+id/clear_list"
+        android:title="@string/clear_list"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_clear_list"
+        android:visible="false"/>
+    <item
+        android:id="@+id/sort_by_checkbox"
+        android:title="@string/sort_by_check_box"
+        android:visible="false"/>
+    <item
+        android:id="@+id/sort_list"
+        android:title="@string/sort_by_task"/>
+    <item
+        android:id="@+id/reset_checkboxes"
+        android:title="@string/reset_checkboxes"
+        android:visible="false"/>
+</menu>
