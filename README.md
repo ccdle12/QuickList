@@ -23,7 +23,7 @@ QuickList is a fast, simple and minialy designed check list for personal organiz
 
 ## Author
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/ccdle12)
+* **Christopher Coverdale** - *Initial work* - [Christopher Coverdale](https://github.com/ccdle12)
 
 ## License
 
