@@ -5,7 +5,7 @@
 
 Create your To-do lists quickly, simply in a friendly, minimal design - QuickList
 
-QuickList is a fast, simple and minialy designed check list for personal organization.
+QuickList is a fast, simple and minimally designed check list for personal organization.
 
 ## Features
 * Default "QuickList"
